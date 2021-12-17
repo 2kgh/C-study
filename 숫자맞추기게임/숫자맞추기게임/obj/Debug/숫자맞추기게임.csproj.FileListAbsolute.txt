@@ -1,0 +1,22 @@
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\bin\Debug\숫자맞추기게임.exe.config
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\bin\Debug\숫자맞추기게임.exe
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\bin\Debug\숫자맞추기게임.pdb
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.csproj.AssemblyReference.cache
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.Form1.resources
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.Properties.Resources.resources
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.csproj.GenerateResource.cache
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.csproj.CoreCompileInputs.cache
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.exe
+C:\Users\rkgus\source\repos\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.pdb
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\bin\Debug\숫자맞추기게임.exe.config
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\bin\Debug\숫자맞추기게임.exe
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\bin\Debug\숫자맞추기게임.pdb
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.csproj.AssemblyReference.cache
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.Form1.resources
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.Properties.Resources.resources
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.csproj.GenerateResource.cache
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.csproj.CoreCompileInputs.cache
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.exe
+C:\Users\rkgus\OneDrive\바탕 화면\숫자맞추기게임\숫자맞추기게임\obj\Debug\숫자맞추기게임.pdb
